@@ -67,11 +67,11 @@ Studios often play a key role in shaping audience perception through branding, m
 
 ### 📈 4. Genre and Studio Impact on Average Rating
 
-<p align="center">
-    <img src="./plots_images/Genre_vs_AverageRating.png" width="400"/>
-    <img src="./plots_images/studio_vs_Rating35.png" width="400"/>
-    <img src="./plots_images/studio_vs_Rating200.png" width="400"/>
-</p>
+
+<img src="./plots_images/Genre_vs_AverageRating.png" width="400"/>
+<img src="./plots_images/studio_vs_Rating35.png" width="400"/>
+<img src="./plots_images/studio_vs_Rating200.png" width="400"/>
+
 
 **📌 Interpretation:**
 - The differences in average rating across genres and studios are minimal.
